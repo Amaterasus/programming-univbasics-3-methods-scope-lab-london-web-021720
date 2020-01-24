@@ -13,6 +13,6 @@ def link
   puts danger
 end
 
-def catch_phrase(phrase)
+def any_phrase(phrase)
   puts phrase
 end
